@@ -3,9 +3,9 @@
 **Halogly/Halogly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
-- 🔭 Working on HTML, CSS, JavaScirpt, Python, Java
-- 🌱 Currently learning HTML, CSS, JavaScirpt, Python, Java, C, C++
-- 👯 Collaborate on Pixiv
+- 🔭 Working on Vue3, Flutter, Django, Java
+- 🌱 Currently learning C, C++
+- 🎨 I’m also an aspiring artist on Pixiv! Though, so far, I’ve only posted one piece...
 <!--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
